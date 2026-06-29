@@ -5,4 +5,4 @@
 
 ### Stats 📊
 ![Naoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=naokiitabashi&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naokiitabashi&layout=compact&theme=radial)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naokiitabashi&theme=dark)](https://git.io/streak-stats)
