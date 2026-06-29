@@ -24,6 +24,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![LiDAR](https://img.shields.io/badge/LiDAR_Sensing-002F6C?style=flat-square&logo=google-earth&logoColor=white)
 
-### Stats 📊
-![Naoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=naokiitabashi&show_icons=true&theme=radial)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naokiitabashi&theme=dark)](https://git.io/streak-stats)
+#### Total Stats
+![Naoki's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=naokiitabashi&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naokiitabashi&layout=compact&theme=dark)
