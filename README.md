@@ -3,6 +3,11 @@
 - 💻 Software Engineer & Researcher specializing in XR and AI fields.
 - 🛠️ Interested in computer vision, vision-language models, and edge device deployment (Jetson/Raspberry Pi).
 
+## Hi, I'm Naoki Itabashi! 👋
+
+- 💻 Software Engineer & Researcher specializing in XR and AI fields.
+- 🛠️ Interested in computer vision, vision-language models, and edge device deployment (Jetson/Raspberry Pi).
+
 ### Skills & Tools 🛠️
 
 #### Languages & Web Development
