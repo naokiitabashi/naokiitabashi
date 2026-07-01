@@ -39,8 +39,3 @@
 ![Backlog](https://img.shields.io/badge/Backlog-00A497?style=flat-square&logo=backlog&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### GitHub Activity 📈
-
-#### Total Stats & Languages
-![Naoki's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=naokiitabashi&show_icons=true&theme=dark&count_private=true&include_all_commits=true&all_commits=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naokiitabashi&layout=compact&theme=dark)
