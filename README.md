@@ -42,5 +42,5 @@
 ### GitHub Activity 📈
 
 #### Total Stats & Languages
-![Naoki's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=naokiitabashi&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![Naoki's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=naokiitabashi&show_icons=true&theme=dark&count_private=true&include_all_commits=true&all_commits=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naokiitabashi&layout=compact&theme=dark)
