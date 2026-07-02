@@ -39,21 +39,12 @@
 ![Backlog](https://img.shields.io/badge/Backlog-00A497?style=flat-square&logo=backlog&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### GitHub Status 📊
+### GitHub ステータス 📊
 
 <p align="left">
-  <!-- GitHubの総合ステータス（プライベートの活動をONにしていれば、それも含んだ総コミット数が計算されます） -->
-  <img src="https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true&theme=react&rank_icon=github&count_private=true" alt="Naoki's GitHub Stats" height="180" />
+  <!-- GitHubの総合ステータス -->
+  <img src="https://github-readme-stats.vercel.app/api?username=あなたのGitHubユーザー名&show_icons=true&theme=react&rank_icon=github&count_private=true" alt="GitHub Stats" height="180" />
   
-  <!-- よく使う言語の割合（こちらもプライベートリポジトリを含めた統計にできます） -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&layout=compact&theme=react&count_private=true" alt="Top Langs" height="180" />
+  <!-- よく使う言語の割合 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのGitHubユーザー名&layout=compact&theme=react&count_private=true" alt="Top Langs" height="180" />
 </p>
-
-<!-- 芝（コントリビューション）の成長を立体的に見せたい場合（お好みで追加してください） -->
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-3d-contrib.egorokin.com/api?v=1&username=あなたのユーザー名&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-3d-contrib.egorokin.com/api?v=1&username=あなたのユーザー名&theme=light" />
-  <img src="https://github-profile-3d-contrib.egorokin.com/api?v=1&username=あなたのユーザー名&theme=dark" alt="GitHub 3D Contribution Graph" />
-</picture>
--->
