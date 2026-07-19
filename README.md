@@ -40,5 +40,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 #### Total Stats & Languages
-![Naoki's GitHub Stats](https://github-readme-stats-psi-brown-38.vercel.app/api?username=naokiitabashi&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![Naoki's GitHub Stats](https://github-readme-stats-psi-brown-38.vercel.app/api?username=naokiitabashi&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache=1)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naokiitabashi&layout=compact&theme=dark)
