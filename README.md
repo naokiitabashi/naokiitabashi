@@ -5,12 +5,14 @@
 
 ### Skills & Tools 🛠️
 
-#### Languages & Web Development
+#### Languages, Web & Mobile Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![R3F / Three.js](https://img.shields.io/badge/R3F_/_Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 #### XR, 3D & Simulation Engines
 ![Unity](https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white)
@@ -29,7 +31,8 @@
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipseche&logoColor=white)
 ![Socket Communication](https://img.shields.io/badge/Socket-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-#### Edge Hardware & Sensing
+#### Edge Hardware, In-Vehicle & Sensing
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![LiDAR](https://img.shields.io/badge/LiDAR_Sensing-002F6C?style=flat-square&logo=google-earth&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN_Bus-4A4A4A?style=flat-square)
